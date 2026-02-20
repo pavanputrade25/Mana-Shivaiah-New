@@ -1,0 +1,5 @@
+body {
+    background-image: url('/static/image/shiva.jpg'); /* Use absolute path from root */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
